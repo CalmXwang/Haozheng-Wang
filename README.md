@@ -24,4 +24,4 @@ Designed and developed a restaurant rating platform as a full system project.
 ## 📫 Contact
 
 - GitHub: https://github.com/CalmXwang
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: (https://www.linkedin.com/in/wade-wang-/?skipRedirect=true)
